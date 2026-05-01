@@ -76,12 +76,6 @@ activities = {
         "schedule": "Tuesdays, 3:00 PM - 4:30 PM",
         "max_participants": 25,
         "participants": []
-    },
-    "Our Swimming Club": {
-        "description": "Practice swimming techniques and compete in swim meets",
-        "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
-        "max_participants": 20,
-        "participants": []
     }
 }
 
